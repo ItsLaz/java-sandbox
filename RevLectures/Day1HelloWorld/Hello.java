@@ -1,4 +1,4 @@
-package RevLectures.Day1;
+package RevLectures.Day1HelloWorld;
 
 import java.util.Scanner;
 
